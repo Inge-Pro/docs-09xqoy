@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-7gc3ak.inatogel9dkk.cfd/sitemap.xml
